@@ -1,0 +1,153 @@
+{
+  "HoursHand": {
+    "X": 0,
+    "Y": 0,
+    "AnimationSpeed": 0,
+    "ImageIndex": 0,
+    "ImagesCount": 1,
+    "BlackIsTransparent": true,
+    "ArrowInfo": {
+      "ArrowFullLength": 120,
+      "ArrowLengthToCenter": 120,
+      "ArrowWidth": 16
+    }
+  },
+  "MinutesHand": {
+    "X": 0,
+    "Y": 0,
+    "AnimationSpeed": 0,
+    "ImageIndex": 1,
+    "ImagesCount": 1,
+    "BlackIsTransparent": true,
+    "ArrowInfo": {
+      "ArrowFullLength": 120,
+      "ArrowLengthToCenter": 120,
+      "ArrowWidth": 16
+    }
+  },
+  "SecondsHand": {
+    "X": 0,
+    "Y": 0,
+    "AnimationSpeed": 0,
+    "ImageIndex": 2,
+    "ImagesCount": 1,
+    "BlackIsTransparent": true,
+    "ArrowInfo": {
+      "ArrowFullLength": 120,
+      "ArrowLengthToCenter": 120,
+      "ArrowWidth": 4
+    }
+  },
+  "HoursDigits": {
+    "X": 87,
+    "Y": 48,
+    "AnimationSpeed": 0,
+    "ImageIndex": 3,
+    "ImagesCount": 14,
+    "BlackIsTransparent": true
+  },
+  "MinutesDigits": {
+    "X": 80,
+    "Y": 141,
+    "AnimationSpeed": 0,
+    "ImageIndex": 3,
+    "ImagesCount": 14,
+    "BlackIsTransparent": true
+  },
+  "BatteryImages": {
+    "X": 46,
+    "Y": 38,
+    "AnimationSpeed": 0,
+    "ImageIndex": 17,
+    "ImagesCount": 5,
+    "BlackIsTransparent": true
+  },
+  "ConnectionImages": {
+    "X": 77,
+    "Y": 111,
+    "AnimationSpeed": 0,
+    "ImageIndex": 22,
+    "ImagesCount": 2,
+    "BlackIsTransparent": true
+  },
+  "Preview": {
+    "X": 0,
+    "Y": 0,
+    "AnimationSpeed": 0,
+    "ImageIndex": 24,
+    "ImagesCount": 1,
+    "BlackIsTransparent": true
+  },
+  "MonthsNames": {
+    "X": 173,
+    "Y": 113,
+    "AnimationSpeed": 0,
+    "ImageIndex": 25,
+    "ImagesCount": 12,
+    "BlackIsTransparent": true
+  },
+  "DayDigits": {
+    "X": 155,
+    "Y": 113,
+    "AnimationSpeed": 0,
+    "ImageIndex": 37,
+    "ImagesCount": 15,
+    "BlackIsTransparent": true
+  },
+  "DaysOfWeek": {
+    "X": 95,
+    "Y": 93,
+    "AnimationSpeed": 0,
+    "ImageIndex": 52,
+    "ImagesCount": 7,
+    "BlackIsTransparent": true
+  },
+  "AmPmText": {
+    "X": 167,
+    "Y": 78,
+    "AnimationSpeed": 0,
+    "ImageIndex": 59,
+    "ImagesCount": 4,
+    "BlackIsTransparent": true
+  },
+  "Background": {
+    "X": 0,
+    "Y": 0,
+    "AnimationSpeed": 0,
+    "ImageIndex": 63,
+    "ImagesCount": 1,
+    "BlackIsTransparent": true
+  },
+  "WeatherImages": {
+    "X": 49,
+    "Y": 82,
+    "AnimationSpeed": 0,
+    "ImageIndex": 64,
+    "ImagesCount": 16,
+    "BlackIsTransparent": true
+  },
+  "TemperatureDigits": {
+    "X": 46,
+    "Y": 134,
+    "AnimationSpeed": 0,
+    "ImageIndex": 37,
+    "ImagesCount": 15,
+    "BlackIsTransparent": true
+  },
+  "CelsiusFahrenheitText": {
+    "X": 73,
+    "Y": 135,
+    "AnimationSpeed": 0,
+    "ImageIndex": 80,
+    "ImagesCount": 2,
+    "BlackIsTransparent": true
+  },
+  "FullYearDigits": {
+    "X": 160,
+    "Y": 128,
+    "AnimationSpeed": 0,
+    "ImageIndex": 37,
+    "ImagesCount": 15,
+    "BlackIsTransparent": true
+  }
+}
