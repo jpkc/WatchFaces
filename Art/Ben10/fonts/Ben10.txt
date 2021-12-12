@@ -1,0 +1,10 @@
+Fonte:
+Tamanho para imagens com 512 de altura: 628
+Considerações: Cortei o 7 e achatei a barra para caber
+Tamanho para imagens 52: ??
+Tamanho para imagens 33: 41
+Tamanho para imagens 32: 40
+Tamanho para imagens 30: 38
+Tamanho para imagens 29: 36
+Tamanho para imagens 13: 15
+
