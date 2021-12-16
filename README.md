@@ -21,28 +21,40 @@ Trying to get most of my target audience happy I designed 5 watchface flavours. 
 
 - All flavours have both analog and digital displays with a discreet hour, minute and second hands on the outer rings.
 
-- The background goes red when battery is about to end - just like it happens with the Omnitrix after an alien transformation is coming to an end. 
+- The background goes red when battery is about to end - just like it happens with the Omnitrix runs out op power and an alien transformation is about to end.
 
 - Weekdays and weekends have different colors.
 
 - Months have colors according to season. (Spring, Summer, Fall, Winter)
 
-- I added two variants for each flavour so that North and South season color codes are properly matched.
+I added two variants for each flavour so that North and South Hemisphere months and color codes properly match.
 
 ## Basic Omnitrix
 ![Basic Omnitrix](https://github.com/jpkc/WatchFaces/blob/main/Ben10/Omnitrix%20Basic/Basic%20Omnitrix.gif?raw=true)
 
+Basic Omnitrix version.
+
 ## Holograms Omnitrix
 ![Holograms Omnitrix](https://github.com/jpkc/WatchFaces/blob/main/Ben10/Omnitrix%20Holograms/omnitrix_holograms.gif?raw=true)
+
+Has aliens holograms showing on the center, one for each dey of week. (Sun: Diamondhead, Mon: Cannonbolt, Tue: Rath, Wed: XLR8, Thu: Four Arms,  Fri: Heatblast, Sat: Shock Rock)
 
 ## Silhouettes Omnitrix
 ![Silhouettes Omnitrix](https://github.com/jpkc/WatchFaces/blob/main/Ben10/Omnitrix%20Silhouettes/omnitrix_silhouettes.gif?raw=true)
 
+Has aliens silhouettes showing on the center, one for each dey of week. (Sun: Diamondhead, Mon: Cannonbolt, Tue: Rath, Wed: XLR8, Thu: Four Arms,  Fri: Heatblast, Sat: Shock Rock)
+
 ## Sensors Omnitrix
 \>\> to be added <<
 
-## Antitrix
+Has sensors for steps, distance, temperature, power and calories.
+
+## Basic Antitrix
+![Basic Antitrix](https://github.com/jpkc/WatchFaces/blob/main/Art/Ben10/background/240x240/antitrix.png?raw=true)
+
 \>\> to be added <<
+
+Basic Antitrix version.
 
 # The Artwork
 I have prepared the artwork in high resolution (2048x2048 images) and tuned it for the chosen watch (240x240). But here I also added the full resolution images ins case someone wants to port it to some other watchwatch.
