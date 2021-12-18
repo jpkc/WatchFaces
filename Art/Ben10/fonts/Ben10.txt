@@ -7,4 +7,5 @@ Tamanho para imagens 32: 40
 Tamanho para imagens 30: 38
 Tamanho para imagens 29: 36
 Tamanho para imagens 13: 15
+Tamanho para imagens  6:  8
 
