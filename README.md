@@ -44,15 +44,10 @@ Has aliens holograms showing on the center, one for each dey of week. (Sun: Diam
 
 Has aliens silhouettes showing on the center, one for each dey of week. (Sun: Diamondhead, Mon: Cannonbolt, Tue: Rath, Wed: XLR8, Thu: Four Arms,  Fri: Heatblast, Sat: Shock Rock)
 
-## Sensors Omnitrix
-\>\> to be added <<
-
-Has sensors for steps, distance, temperature, power and calories.
-
 ## Basic Antitrix
 ![Basic Antitrix](https://github.com/jpkc/WatchFaces/blob/main/Ben10/Antitrix/Antitrix.gif?raw=true)
 
-Has Kevin 11's aliens silhouettes showing on the center, one for each dey of week. (Sun: Crustalfist, Mon: Wreckingbolt, Tue: Skunkmoth, Wed: Rush, Thu: Four Arms, Fri: Dark Matter, Sat: Bootleg)
+Has Kevin 11's aliens silhouettes showing on the lower part, one for each day of week. (Sun: Crustalfist, Mon: Wreckingbolt, Tue: Skunkmoth, Wed: Rush, Thu: Four Arms, Fri: Dark Matter, Sat: Bootleg).
 
 # The Artwork
 I have prepared the artwork in high resolution (2048x2048 images) and tuned it for the chosen watch (240x240). But here I also added the full resolution images ins case someone wants to port it to some other watchwatch.
