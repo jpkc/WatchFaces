@@ -50,11 +50,9 @@ Has aliens silhouettes showing on the center, one for each dey of week. (Sun: Di
 Has sensors for steps, distance, temperature, power and calories.
 
 ## Basic Antitrix
-![Basic Antitrix](https://github.com/jpkc/WatchFaces/blob/main/Art/Ben10/background/240x240/antitrix.png?raw=true)
+![Basic Antitrix](https://github.com/jpkc/WatchFaces/tree/main/Ben10/Antitrix.gif?raw=true)
 
-\>\> to be added <<
-
-Basic Antitrix version.
+Has Kevin 11's aliens silhouettes showing on the center, one for each dey of week. (Sun: Crustalfist, Mon: Wreckingbolt, Tue: Skunkmoth, Wed: Rush, Thu: Four Arms, Fri: Dark Matter, Sat: Bootleg)
 
 # The Artwork
 I have prepared the artwork in high resolution (2048x2048 images) and tuned it for the chosen watch (240x240). But here I also added the full resolution images ins case someone wants to port it to some other watchwatch.
