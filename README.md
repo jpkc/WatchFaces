@@ -50,7 +50,7 @@ Has aliens silhouettes showing on the center, one for each dey of week. (Sun: Di
 Has sensors for steps, distance, temperature, power and calories.
 
 ## Basic Antitrix
-![Basic Antitrix](https://github.com/jpkc/WatchFaces/tree/main/Ben10/Antitrix.gif?raw=true)
+![Basic Antitrix](https://github.com/jpkc/WatchFaces/blob/main/Ben10/Antitrix/Antitrix.gif?raw=true)
 
 Has Kevin 11's aliens silhouettes showing on the center, one for each dey of week. (Sun: Crustalfist, Mon: Wreckingbolt, Tue: Skunkmoth, Wed: Rush, Thu: Four Arms, Fri: Dark Matter, Sat: Bootleg)
 
